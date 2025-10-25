@@ -27,11 +27,11 @@ J’aime apprendre, expérimenter et rendre le code aussi lisible qu’efficace 
 ## ⚙️ Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Pro-FR&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonpseudo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Pro-FR&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Pro-FR&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
 
 ---
