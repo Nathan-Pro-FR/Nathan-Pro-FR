@@ -33,7 +33,9 @@ J’aime apprendre, expérimenter et rendre le code aussi lisible qu’efficace 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Pro-FR&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
  </p>
- 
+
+
+ <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -41,7 +43,7 @@ J’aime apprendre, expérimenter et rendre le code aussi lisible qu’efficace 
   <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
-
+-->
 ---
 
 ## 🏆 Trophées GitHub
