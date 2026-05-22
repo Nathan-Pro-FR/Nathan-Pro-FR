@@ -26,13 +26,21 @@ J’aime apprendre, expérimenter et rendre le code aussi lisible qu’efficace 
 
 ## ⚙️ Mes statistiques GitHub
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Pro-FR&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Pro-FR&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Pro-FR&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
-</p>
+ </p>
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nathan-Pro-FR&locale=fr&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/Nathan-Pro-FR/Nathan-Pro-FR/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
