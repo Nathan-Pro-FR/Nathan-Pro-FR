@@ -1,7 +1,7 @@
 <!-- █████ CYBERPUNK PROFILE INITIALIZED █████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:0ff,animation=fadeIn&text=NEURAL%20INTERFACE&fontColor=00fff7&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:0ff,animation=fadeIn&text=NATHAN-PRO-FR%20README.MD&fontColor=00fff7&fontSize=40" />
 </p>
 
 <p align="center">
@@ -76,11 +76,12 @@ class Developer {
 ---
 
 ## 💾 TECH STACK (GLITCH MODE)
-
+```
 Frontend   ████████████▒▒▒
 Backend    ████████▒▒▒▒▒▒▒
 CSS        ██████████▒▒▒▒▒
 Debugging  ███▒▒▒▒▒▒▒▒▒▒▒▒
+```
 
 ---
 
@@ -98,8 +99,47 @@ Debugging  ███▒▒▒▒▒▒▒▒▒▒▒▒
 
 ## 👁️ VISUAL OVERLAY
 
+```
+ ┌───┬────────────────────────────────────────────────────────┬───────────┐
+ │ ● │ https://rule34.xxx/                                    │ - │ □ │ ⨯ │
+ ├───┴────────────────────────────────────────────────────────┴───────────┤
+ │                                                                        │
+ │            Rule 34 : If it exists there is porn of it.                 │
+ │                       If not, start uploading.                         │
+ │                                                                        │
+ │                   Posts  Comments  Forum  My Account                   │
+ │                ┌──────────────────────────────────────┐                │
+ │                │██████████████████████████████████████│                │
+ │                └──────────────────────────────────────┘                │
+ │                             ┌────────────┐                             │
+ │                             │   Search   │                             │
+ │                             └────────────┘                             │
+ │                                                                        │
+ │                            Visitor number :                            │
+```
+ <p align="left">
+  <img src="https://camo.githubusercontent.com/0983f95edde47078754aca7d43a2a463e09ab35c360d0786993026e6f2aa6200/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f404e617468616e2d50726f2d46523f7468656d653d6d6f65626f6f7275"/>
+</p>
+
+```
+ │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ │                                                                        │
+ └────────────────────────────────────────────────────────────────────────┘
+ ```
+
+ 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nathan-Pro-FR&style=for-the-badge&color=00fff7"/>
+  <img src="https://camo.githubusercontent.com/0983f95edde47078754aca7d43a2a463e09ab35c360d0786993026e6f2aa6200/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f404e617468616e2d50726f2d46523f7468656d653d6d6f65626f6f7275"/>
 </p>
 
 ---
